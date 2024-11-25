@@ -21,7 +21,7 @@ Tool này giúp bạn lấy **Refresh Token** từ tài khoản Microsoft và s�
 
 ### Bước 1: Tải Công Cụ
 
-1. Tải toàn bộ repository về máy
+Tải toàn bộ repository về máy
 
 ### Bước 2: Cài Đặt .NET 8.0 Desktop Runtime
 
