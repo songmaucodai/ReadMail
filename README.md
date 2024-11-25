@@ -28,8 +28,25 @@ Tool này giúp bạn lấy **Refresh Token** từ tài khoản Microsoft và s�
    - Giải nén file này vào cùng thư mục chứa các file còn lại của công cụ.
    - Sau khi giải nén, đảm bảo rằng thư mục `runtimes` và file `ReadEmail.exe.WebView2` có trong thư mục này.
 
-   Cấu trúc thư mục hoàn chỉnh sẽ như sau:
-/tool-folder ├── WinRT.Runtime.dll ├── System.Management.dll ├── ReadEmail.runtimeconfig ├── ReadEmail.pdb ├── ReadEmail.exe ├── ReadEmail.dll ├── ReadEmail.deps ├── Newtonsoft.Json.dll ├── Microsoft.Windows.SDK.NET.dll ├── Microsoft.Web.WebView2.Wpf ├── Microsoft.Web.WebView2.Wpf.dll ├── Microsoft.Web.WebView2.WinForms ├── Microsoft.Web.WebView2.WinForms.dll ├── Microsoft.Web.WebView2.Core ├── Microsoft.Web.WebView2.Core.dll ├── runtimes/ <-- Thư mục runtimes ├── ReadEmail.exe.WebView2/ <-- Thư mục ReadEmail.exe.WebView2
+   Cấu trúc hoàn chỉnh trong thư mục sẽ như sau:
+
+├── WinRT.Runtime.dll
+├── System.Management.dll
+├── ReadEmail.runtimeconfig
+├── ReadEmail.pdb
+├── ReadEmail.exe <-- File khởi chạy chương trình
+├── ReadEmail.dll
+├── ReadEmail.deps
+├── Newtonsoft.Json.dll
+├── Microsoft.Windows.SDK.NET.dll
+├── Microsoft.Web.WebView2.Wpf
+├── Microsoft.Web.WebView2.Wpf.dll
+├── Microsoft.Web.WebView2.WinForms
+├── Microsoft.Web.WebView2.WinForms.dll
+├── Microsoft.Web.WebView2.Core
+├── Microsoft.Web.WebView2.Core.dll
+├── runtimes/ <-- Thư mục runtimes
+├── ReadEmail.exe.WebView2/ <-- Thư mục ReadEmail.exe.WebView2
 
 ### Bước 2: Cài Đặt .NET 8.0 Desktop Runtime
 
