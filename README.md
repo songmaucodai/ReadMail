@@ -8,8 +8,9 @@ Tool này giúp bạn lấy **Refresh Token** từ tài khoản Microsoft và s�
 
 - **Hỗ trợ nhập danh sách email**: Cho phép bạn nhập danh sách email cần đọc.
 - **Nút chuyển giữa các email**: Tính năng cho phép chuyển đổi giữa các email để chọn email cần đọc.
-- **Hiển thị 20 email mới nhất**: Hiển thị 20 email mới nhất từ hộp thư đến và thư rác.
+- **Lấy Refresh Token**: Lấy Refresh Token và lưu nó lại
 - **Đọc email bằng Refresh Token**: Sử dụng Refresh Token qua OAuth2 để truy xuất các email từ Outlook.
+- **Hiển thị 20 email mới nhất**: Hiển thị 20 email mới nhất từ hộp thư đến và thư rác.
 - **Tương tác với nội dung email**: Bạn có thể sao chép nội dung văn bản của email hoặc truy cập các liên kết trong email theo ý muốn.
 
 ## Yêu Cầu
