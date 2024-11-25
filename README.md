@@ -30,7 +30,7 @@ Tool này giúp bạn lấy **Refresh Token** từ tài khoản Microsoft và s�
 
    Cấu trúc hoàn chỉnh trong thư mục sẽ như sau:
 
-![Cấu trúc thư mục](structure.png)
+![Cấu trúc thư mục](https://raw.githubusercontent.com/songmaucodai/ReadMail/refs/heads/main/structure.PNG)
 
 ### Bước 2: Cài Đặt .NET 8.0 Desktop Runtime
 
